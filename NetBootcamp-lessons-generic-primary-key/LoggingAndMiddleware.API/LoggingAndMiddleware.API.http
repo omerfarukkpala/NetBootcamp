@@ -1,6 +1,0 @@
-@LoggingAndMiddleware.API_HostAddress = http://localhost:5268
-
-GET {{LoggingAndMiddleware.API_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
