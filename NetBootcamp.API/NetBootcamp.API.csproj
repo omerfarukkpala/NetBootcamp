@@ -7,7 +7,34 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Include="NetBootcamp\.vs\VSWorkspaceState.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="NetBootcamp\.vs\NetBootcamp\DesignTimeBuild\.dtbcache.v2" />
+    <None Include="NetBootcamp\.vs\NetBootcamp\FileContentIndex\018e7e49-8489-4905-9f47-fc5db22bb6b5.vsidx" />
+    <None Include="NetBootcamp\.vs\NetBootcamp\v17\.futdcache.v2" />
+    <None Include="NetBootcamp\.vs\NetBootcamp\v17\.wsuo" />
+    <None Include="NetBootcamp\.vs\ProjectEvaluation\netbootcamp.metadata.v7.bin" />
+    <None Include="NetBootcamp\.vs\ProjectEvaluation\netbootcamp.projects.v7.bin" />
+    <None Include="NetBootcamp\.vs\slnx.sqlite" />
+    <None Include="NetBootcamp\NetBootcamp.API\NetBootcamp.API.csproj" />
+    <None Include="NetBootcamp\NetBootcamp.API\NetBootcamp.API.csproj.user" />
+    <None Include="NetBootcamp\NetBootcamp.sln" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="NetBootcamp\NetBootcamp.API\bin\Debug\net8.0\" />
+    <Folder Include="NetBootcamp\NetBootcamp.API\bin\Release\net8.0\" />
+    <Folder Include="NetBootcamp\NetBootcamp.API\obj\Debug\net8.0\refint\" />
+    <Folder Include="NetBootcamp\NetBootcamp.API\obj\Debug\net8.0\ref\" />
+    <Folder Include="NetBootcamp\NetBootcamp.API\obj\Debug\net8.0\staticwebassets\" />
+    <Folder Include="NetBootcamp\NetBootcamp.API\obj\Release\net8.0\refint\" />
+    <Folder Include="NetBootcamp\NetBootcamp.API\obj\Release\net8.0\ref\" />
   </ItemGroup>
 
 </Project>
