@@ -13,4 +13,4 @@ namespace NetBootcamp.API.Products
 
         ResponseModelDto<NoContent> Delete(int id);
     }
-}
+} 
